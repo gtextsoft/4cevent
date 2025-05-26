@@ -9,7 +9,7 @@ export const AboutSection = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-br from-amber-500/20 to-blue-500/20 rounded-2xl blur-xl"></div>
               <img 
-                src="https://cdn.guardian.ng/wp-content/uploads/2023/02/Akintayo-4-2-23...........jpg"
+                src="https://www.citypeopleonline.com/wp-content/uploads/2022/11/How-STEPHEN-AKINTAYO-Hit-It-BIG-In-Real-Estate-1.jpg"
                 alt="Dr Stephen Akintayo"
                 className="relative w-full h-auto rounded-2xl shadow-2xl border-2 border-white/20"
               />
