@@ -2,6 +2,7 @@
 import { Header } from "@/components/Header";
 import { HeroSection } from "@/components/HeroSection";
 import { EventDetails } from "@/components/EventDetails";
+import { AboutSection } from "@/components/AboutSection";
 import { WhyAttend } from "@/components/WhyAttend";
 import { WhatYouGain } from "@/components/WhatYouGain";
 import { RegistrationForm } from "@/components/RegistrationForm";
@@ -13,6 +14,7 @@ const Index = () => {
       <Header />
       <HeroSection />
       <EventDetails />
+      <AboutSection />
       <WhyAttend />
       <WhatYouGain />
       <RegistrationForm />
