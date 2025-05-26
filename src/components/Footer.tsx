@@ -16,13 +16,13 @@ export const Footer = () => {
               from industry expert Dr Stephen Akintayo.
             </p>
             <div className="flex gap-4">
-              <a href="#" className="bg-white/10 hover:bg-white/20 p-3 rounded-lg transition-colors">
+              <a href="mailto:stphenakintayo@gmail.com" className="bg-white/10 hover:bg-white/20 p-3 rounded-lg transition-colors">
                 <Mail className="text-white" size={20} />
               </a>
-              <a href="#" className="bg-white/10 hover:bg-white/20 p-3 rounded-lg transition-colors">
+              <a href="tel:+2348060000000" className="bg-white/10 hover:bg-white/20 p-3 rounded-lg transition-colors">
                 <Phone className="text-white" size={20} />
               </a>
-              <a href="#" className="bg-white/10 hover:bg-white/20 p-3 rounded-lg transition-colors">
+              <a href="https://gtextholdings.com" className="bg-white/10 hover:bg-white/20 p-3 rounded-lg transition-colors">
                 <Globe className="text-white" size={20} />
               </a>
             </div>
