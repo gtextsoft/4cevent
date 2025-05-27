@@ -8,8 +8,7 @@ export const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8">
           <div className="col-span-2">
             <div className="flex items-center gap-3 mb-6">
-              <Building2 className="text-amber-400" size={32} />
-              <span className="text-white font-bold text-xl">Property Masters</span>
+              <img src="/logo.png" alt="Property Masters" className="w-20 h-10" />
             </div>
             <p className="text-white/70 mb-6 max-w-md">
               Join thousands of investors learning the insider secrets of international real estate investment 

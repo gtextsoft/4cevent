@@ -6,8 +6,7 @@ export const Header = () => {
     <header className="bg-black/20 backdrop-blur-md border-b border-white/10 sticky top-0 z-50">
       <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
         <div className="flex items-center gap-3">
-          <Building2 className="text-amber-400" size={32} />
-          <span className="text-white font-bold text-xl">Property Masters</span>
+          <img src="/logo.png" alt="Property Masters" className="w-20 h-10" />
         </div>
         <nav className="hidden md:flex items-center gap-8">
           <a href="#details" className="text-white/80 hover:text-amber-400 transition-colors">Details</a>
